@@ -1,0 +1,3 @@
+[submodule "aoc22-golang"]
+	path = aoc22-golang
+	url = https://github.com/SchneiderA/aoc22-golang.git
